@@ -17,5 +17,16 @@
     "culture": 3,
     "food": 1,
     "requiredTech": "Industrialization"
+  },
+  {
+    "name": "Voenkomat",
+    "replaces": "Military Base",
+    "uniqueTo": "Russia",
+    "happiness": -3,
+    "cityStrength": 6,
+    "cityHealth": 40,
+		"hurryCostModifier": 25,
+    "requiredBuilding": "Arsenal",
+    "requiredTech": "Replaceable Parts"
   }
 ]
