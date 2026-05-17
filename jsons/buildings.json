@@ -1,6 +1,7 @@
 [
     {
 		"name": "Twin towers",
+		"cost": 1300,
 		"culture": 4,
 		"gold": 6,
 		"isWonder": true,
