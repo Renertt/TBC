@@ -20,14 +20,17 @@
   },
   {
     "name": "Voenkomat",
-    "replaces": "Military Base",
+    "replaces": "Military Academy",
     "uniqueTo": "Russia",
     "happiness": -3,
-    "cityStrength": 6,
-    "cityHealth": 40,
-		"hurryCostModifier": 25,
-    "requiredBuilding": "Arsenal",
-    "requiredTech": "Replaceable Parts",
-    "uniques": ["Destroyed when the city is captured"]
+    "hurryCostModifier": 0,
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": [
+      "New [Military] units start with [15] XP [in this city]",
+      "[+15]% Production when constructing units [in this city]",
+      "Destroyed when the city is captured"
+    ],
+		"requiredTech": "Military Science"
   }
 ]
