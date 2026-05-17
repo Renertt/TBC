@@ -1,13 +1,10 @@
 [
   {
     "name": "Peat Cutter",
-    "terrainsCanBeBuiltOn": ["Marsh"],
+    "terrainsCanBeBuiltOn": [],
     "turnsToBuild": 7,
     "techRequired": "Mining",
-    "uniques": [
-      "Can only be built on [Peat]",
-      "Pillaging this improvement yields approximately [+15 Gold]"
-    ],
+    "uniques": ["Pillaging this improvement yields approximately [+15 Gold]"],
     "shortcutKey": "P"
   }
 ]
