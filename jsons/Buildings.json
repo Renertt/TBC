@@ -27,6 +27,7 @@
     "cityHealth": 40,
 		"hurryCostModifier": 25,
     "requiredBuilding": "Arsenal",
-    "requiredTech": "Replaceable Parts"
+    "requiredTech": "Replaceable Parts",
+    "uniques": ["Destroyed when the city is captured"]
   }
 ]
