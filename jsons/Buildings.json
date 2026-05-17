@@ -12,10 +12,10 @@
   {
     "name": "Hrushevka",
     "uniqueTo": "Russia",
-    "cost": 360,
+    "cost": 300,
     "happiness": -2,
-    "culture": 1,
-    "uniques": ["+1 Food for [Population]"],
+    "culture": 3,
+    "food": 1,
     "requiredTech": "Industrialization"
   }
 ]
