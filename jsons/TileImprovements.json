@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Peat Cutter",
+    "terrainsCanBeBuiltOn": ["Marsh"],
+    "turnsToBuild": 7,
+    "techRequired": "Mining",
+    "production": 2,
+    "gold": 1,
+    "shortcutKey": "P"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Peat",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Marsh"],
+    "production": 1,
+    "improvement": "Peat Cutter",
+    "uniques": ["Generated with weight [20] <in [Marsh] tiles>"]
+  }
+]
