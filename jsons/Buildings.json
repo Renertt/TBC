@@ -10,6 +10,24 @@
     "quote": "'Oh..' - Ren"
   },
   {
+    "name": "Hadron Collider",
+    "cost": 700,
+    "science": 4,
+    "production": 2,
+    "maintenance": 2,
+    "requiredTech": "Particle Physics"
+  },
+  {
+    "name": "Large Hadron Collider",
+    "cost": 1300,
+    "isWonder": true,
+    "science": 6,
+    "production": 3,
+    "greatPersonPoints": {"Great Scientist": 2},
+    "percentStatBonus": {"science": 50},
+    "requiredTech": "Particle Physics"
+  },
+  {
     "name": "Hrushevka",
     "uniqueTo": "Russia",
     "cost": 300,
