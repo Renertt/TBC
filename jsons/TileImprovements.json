@@ -4,8 +4,10 @@
     "terrainsCanBeBuiltOn": ["Marsh"],
     "turnsToBuild": 7,
     "techRequired": "Mining",
-    "production": 2,
-    "gold": 1,
+    "uniques": [
+      "Can only be built on [Peat]",
+      "Pillaging this improvement yields approximately [+15 Gold]"
+    ],
     "shortcutKey": "P"
   }
 ]
