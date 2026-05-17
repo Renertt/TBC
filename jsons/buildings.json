@@ -1,0 +1,11 @@
+[
+    {
+		"name": "Twin towers",
+		"culture": 4,
+		"gold": 6,
+		"isWonder": true,
+		"uniques": ["[+1 gold] from every [Stock Exchange]"],
+		"requiredTech": "Flight",
+		"quote": "Oh.."
+	}
+]
